@@ -1,0 +1,6 @@
+2026-09-23 01:23:10,308 - [INFO] - server : SRV-TEST-01 aman. Sudah melakukan 2 kali|Client_ip : 127.0.0.1
+2026-09-23 01:23:11,777 - [INFO] - server : SRV-TEST-01 aman. Sudah melakukan 2 kali|Client_ip : 127.0.0.1
+2026-09-23 01:23:36,664 - [WARNING] - Security Alert! : SRV-TEST-02 dari IP 127.0.0.1mencatat sudah melakukan percobaan10 kali | user-agent: mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) code/1.138.0 chrome/148.0.7778.280 electron/42.10.0 safari/537.36
+2026-09-23 01:25:01,244 - [WARNING] - Security Alert! : SRV-TEST-02 dari IP 127.0.0.1mencatat sudah melakukan percobaan10 kali | user-agent: mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) code/1.138.0 chrome/148.0.7778.280 electron/42.10.0 safari/537.36
+2026-09-23 01:25:15,185 - [INFO] - server : SRV-TEST-01 aman. Sudah melakukan 2 kali|Client_ip : 127.0.0.1
+2026-09-23 01:37:32,193 - [WARNING] - Security Alert! : SRV-TEST-02 dari IP 127.0.0.1mencatat sudah melakukan percobaan10 kali | user-agent: mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) code/1.138.0 chrome/148.0.7778.280 electron/42.10.0 safari/537.36
