@@ -1,0 +1,9 @@
+2026-09-26 00:43:34,998 - [WARNING] - Security Alert! : SRV-02 dari IP 127.0.0.1mencatat sudah melakukan percobaan15 kali | user-agent: mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) code/1.139.1 chrome/150.0.7871.250 electron/43.6.0 safari/537.36
+2026-09-26 00:44:21,440 - [WARNING] - Security Alert! : SRV-02 dari IP 127.0.0.1mencatat sudah melakukan percobaan15 kali | user-agent: mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) code/1.139.1 chrome/150.0.7871.250 electron/43.6.0 safari/537.36
+2026-09-26 00:48:44,897 - [INFO] - server : SRV-01 aman. Sudah melakukan 0 kali|Client_ip : 127.0.0.1
+2026-09-26 00:48:45,077 - [INFO] - server : SRV-01 aman. Sudah melakukan 0 kali|Client_ip : 127.0.0.1
+2026-09-26 00:48:45,237 - [INFO] - server : SRV-01 aman. Sudah melakukan 0 kali|Client_ip : 127.0.0.1
+2026-09-26 00:50:24,078 - [INFO] - server : SRV-01 aman. Sudah melakukan 0 kali|Client_ip : 127.0.0.1
+2026-09-26 00:50:27,603 - [INFO] - server : SRV-01 aman. Sudah melakukan 0 kali|Client_ip : 127.0.0.1
+2026-09-26 00:50:28,218 - [INFO] - server : SRV-01 aman. Sudah melakukan 0 kali|Client_ip : 127.0.0.1
+2026-09-26 01:07:48,466 - [WARNING] - Security Alert! : SRV-02 dari IP 127.0.0.1mencatat sudah melakukan percobaan15 kali | user-agent: mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) code/1.139.1 chrome/150.0.7871.250 electron/43.6.0 safari/537.36
